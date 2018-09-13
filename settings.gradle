@@ -1,0 +1,1 @@
+include ':instantrun', ':app', ':base', ':instantapp'
